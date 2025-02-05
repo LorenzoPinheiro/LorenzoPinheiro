@@ -1,4 +1,4 @@
-Olá, sou o Lorenzo e atualmente estou cursando ciência da computação na UNIFOR (3o Semestre)
+Olá, sou o Lorenzo e atualmente estou cursando ciência da computação na UNIFOR ---(3o Semestre atualmente)
 -
 Vou deixar registrado os meus projetos e trabalhos mais relevantes desenvolvidos ao longo da minha jornada enquanto universitário (2024.1 - 2027.2).
 Serão feitas alterações e novas adições ao decorrer do tempo.
